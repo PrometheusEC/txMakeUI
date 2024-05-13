@@ -12,11 +12,23 @@ To install the variable on Windows:
 -set variable value: C:\Program Files\Pixar\RenderManProServer-26.0\ 
 -click okay on all the windows
 
+
+try running again txmake command on terminal
+
 !!!! IMPORTANT !!!! the variable value might change with renderman version and with where was it installed.
 =================================================================================================
 
+Instructions:
+-Select Folder or File with the buttons
+-clic Tx Make
+-Get your image
 
-try running again the txmake command on terminal
+Limitations:
+-Can't create new folder yet other than the /tex/ one
+-Hasn't been tested on Linux or Mac
+
+
+
 
 
 
