@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![RenderMan](https://img.shields.io/badge/RenderMan-TxMake-red)
 ![VFX](https://img.shields.io/badge/VFX-Pipeline-black)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+![Status: Paused](https://img.shields.io/badge/Status-Paused-lightgrey)
 
 ---
 
@@ -41,3 +41,15 @@ To use TxMake UI, **TxMake must be correctly installed and accessible from your 
 ### Verify TxMake Installation
 Open a command prompt or terminal and run:
 txmake
+
+## Devices
+✅ Windows (tested)
+
+⚠️ macOS / Linux (not tested)
+
+Project Status
+
+## ⏸ On Hold
+
+This project is currently not under active development and no further improvements are planned at this time.
+The repository is kept as a portfolio and reference project.
